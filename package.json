@@ -1,6 +1,6 @@
 {
     "name": "@plurnk/plurnk-mimetypes-text-gherkin",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "text/x-gherkin (Gherkin/.feature BDD) mimetype handler for plurnk-service. Backed by @cucumber/gherkin, the cucumber org's reference parser.",
     "type": "module",
     "license": "MIT",
@@ -42,7 +42,7 @@
         "prepare": "npm run build"
     },
     "dependencies": {
-        "@cucumber/gherkin": "^33.0.0"
+        "@cucumber/gherkin": "^41.0.0"
     },
     "devDependencies": {
         "@types/node": "^25.8.0",

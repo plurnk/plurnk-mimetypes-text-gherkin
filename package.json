@@ -44,7 +44,7 @@
         "prepublishOnly": "npm run deps:fresh && npm audit --audit-level=moderate && npm test"
     },
     "dependencies": {
-        "@cucumber/gherkin": "^41.0.0"
+        "@cucumber/gherkin": "^42.0.0"
     },
     "devDependencies": {
         "@plurnk/plurnk-mimetypes": "1.0.9",

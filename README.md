@@ -32,3 +32,8 @@ This handler emits **no references**. Gherkin steps bind to step-definitions liv
 ## license
 
 MIT.
+
+## Versioning
+
+This package versions independently. Compatibility is declared by its dependency
+ranges; a Plurnk release does not require a release of this package.

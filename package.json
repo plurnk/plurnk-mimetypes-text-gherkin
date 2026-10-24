@@ -47,7 +47,7 @@
         "@cucumber/gherkin": "^42.0.1"
     },
     "devDependencies": {
-        "@plurnk/plurnk-mimetypes": "^3.0.5",
+        "@plurnk/plurnk-mimetypes": "^3.0.6",
         "@types/node": "^26.6.5",
         "typescript": "^7.0.2"
     },
